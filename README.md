@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, I am Aleksandra! 👋 👩🏻‍💻
 
+
+Comming soon !
 <!--
 **aleksandra-b-t/aleksandra-b-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
