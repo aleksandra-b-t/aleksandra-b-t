@@ -2,6 +2,13 @@
 
 
 Comming soon !
+
+
+
+#### :coffee: Wanna chat? <br>
+* [Linkedin!](https://www.linkedin.com/in/aleksandra-bystranowska-takahashi-26635a89/) <br>
+* [Insta!](https://www.instagram.com/letsdreamsmaketrue/?hl=en) <br>
+* [Facebook!](https://www.facebook.com/bystranowska/) <br>
 <!--
 **aleksandra-b-t/aleksandra-b-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
