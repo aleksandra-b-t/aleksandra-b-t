@@ -1,4 +1,4 @@
-### Hi, I am Aleksandra! 👋 👩🏻‍💻
+### Hi, I am *Aleksandra* ! 👩🏻‍💻
 
 ![Czarne i Białe ](https://user-images.githubusercontent.com/60992825/95758402-6ed41880-0c76-11eb-83a9-8fab28f0b98b.png)
 
