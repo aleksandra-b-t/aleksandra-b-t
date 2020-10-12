@@ -16,6 +16,25 @@
 [linkedin]: https://www.linkedin.com/in/aleksandra-bystranowska-takahashi-26635a89/
 [medium]: https://medium.com/@aleksandra.bystranowska
 [image]: https://
+[edu]: https://
+<br>
+<br> 
+
+## Who am I ?
+###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2019/png/iconmonstr-school-24.png&r=134&g=149&b=150" />][edu] -> Software Engineering & Psychology of Management 
+###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2019/png/iconmonstr-customer-10.png&r=130&g=144&b=145" />][edu] -> SelfCare Master
+###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2018/png/iconmonstr-tree-18.png&r=130&g=144&b=145" />][edu] -> Hiking - Camping Enthusiast
+###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2018/png/iconmonstr-light-bulb-thin.png&r=125&g=139&b=140" />][edu] -> Endless Creativity 
+###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2019/png/iconmonstr-school-26.png&r=118&g=131&b=133" />][edu] -> Books Lover 
+
+
+
+## To REMEMBER !
+> "History does not know of such cases that someone learned something, because he was humiliated."
+> - Janina Bak *"How much chocolate you have to eat to get a Nobel Prize?"*
+
+
+
 <!--
 **aleksandra-b-t/aleksandra-b-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
