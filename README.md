@@ -3,7 +3,7 @@
 ![Czarne i Białe ](https://user-images.githubusercontent.com/60992825/95758402-6ed41880-0c76-11eb-83a9-8fab28f0b98b.png)
 
 
-#### [<img align="left" alt="codeSTACKr | Facebook" width="33px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2020/png/iconmonstr-friend-6.png&r=98&g=110&b=105" />] Connect with me: <br> 
+#### [<img align="left" alt="codeSTACKr | Image" width="22px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2020/png/iconmonstr-friend-6.png&r=98&g=110&b=105" />][image] Connect with me: <br> 
 
 [<img align="left" alt="codeSTACKr | Facebook" width="33px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-facebook-5.png&r=154&g=171&b=165" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="33px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-linkedin-5.png&r=145&g=161&b=155" />][linkedin]
@@ -15,6 +15,7 @@
 [instagram]: https://www.instagram.com/letsdreamsmaketrue/?hl=en
 [linkedin]: https://www.linkedin.com/in/aleksandra-bystranowska-takahashi-26635a89/
 [medium]: https://medium.com/@aleksandra.bystranowska
+[image]: https://
 <!--
 **aleksandra-b-t/aleksandra-b-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
