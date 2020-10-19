@@ -28,7 +28,7 @@
 ###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2019/png/iconmonstr-school-26.png&r=118&g=131&b=133" />][edu] -> Books Lover || currently reading *Roberta Gately "The Bracelet"*
 
 <br><br>
-[![Aleksandra's github stats](https://github-readme-stats.vercel.app/api?username=aleksandra-b-t&show_icons=true&theme=gotham)](https://github.com/aleksandra-b-t/github-readme-stats)
+[![Aleksandra's github stats](https://github-readme-stats.vercel.app/api?username=aleksandra-b-t&show_icons=true&theme=nord)](https://github.com/aleksandra-b-t/github-readme-stats)
 <br><br>
 
 
@@ -37,7 +37,13 @@
 ## To REMEMBER !
 > "History does not know of such cases that someone learned something, because he was humiliated."
 > - Janina Bak *"How much chocolate you have to eat to get a Nobel Prize?"*
+<br><br>
 
+
+## Pinned:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandra-b-t&repo=finder&theme=nord)](https://github.com/aleksandra-b-t/finder)<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandra-b-t&repo=one_step_fe&theme=nord)](https://github.com/aleksandra-b-t/one_step_fe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandra-b-t&repo=one_step_be&theme=nord)](https://github.com/aleksandra-b-t/one_step_be)
 
 
 <!--
