@@ -25,7 +25,12 @@
 ###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2019/png/iconmonstr-customer-10.png&r=130&g=144&b=145" />][edu] -> SelfCare Master
 ###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2018/png/iconmonstr-tree-18.png&r=130&g=144&b=145" />][edu] -> Hiking - Camping Enthusiast
 ###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2018/png/iconmonstr-light-bulb-thin.png&r=125&g=139&b=140" />][edu] -> Endless Creativity 
-###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2019/png/iconmonstr-school-26.png&r=118&g=131&b=133" />][edu] -> Books Lover 
+###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2019/png/iconmonstr-school-26.png&r=118&g=131&b=133" />][edu] -> Books Lover || currently reading *Roberta Gately "The Bracelet"*
+
+<br><br>
+[![Aleksandra's github stats](https://github-readme-stats.vercel.app/api?username=aleksandra-b-t&show_icons=true&theme=gotham)](https://github.com/aleksandra-b-t/github-readme-stats)
+<br><br>
+
 
 
 
