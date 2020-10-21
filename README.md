@@ -31,7 +31,9 @@
 ###### [<img align="left" alt="codeSTACKr | edu" width="28px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2019/png/iconmonstr-school-26.png&r=118&g=131&b=133" />][edu] -> Books Lover || currently reading *Roberta Gately "The Bracelet"*
 
 <br><br>
-[![Aleksandra's github stats](https://github-readme-stats.vercel.app/api?username=aleksandra-b-t&show_icons=true&theme=nord)](https://github.com/aleksandra-b-t/github-readme-stats)
+## My stats:
+[![Aleksandra's github stats](https://github-readme-stats.vercel.app/api?username=aleksandra-b-t&layout=compact&show_icons=true&theme=nord)](https://github.com/aleksandra-b-t/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandra-b-t&layout=compact&show_icons=true&theme=nord)](https://github.com/aleksandra-b-t/github-readme-stats)
 <br><br>
 
 
