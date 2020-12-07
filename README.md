@@ -16,7 +16,7 @@
 [facebook]: https://www.facebook.com/bystranowska/
 [instagram]: https://www.instagram.com/letsdreamsmaketrue/?hl=en
 [linkedin]: https://www.linkedin.com/in/aleksandra-bystranowska-takahashi-26635a89/
-[medium]: https://medium.com/@aleksandra.bystranowska
+[medium]: https://aleksandra-bystranowska.medium.com/
 [webpage]: https://aleksandra-b-t.github.io/
 [image]: https://
 [edu]: https://
