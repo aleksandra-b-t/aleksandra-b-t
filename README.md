@@ -45,10 +45,6 @@
 <br><br>
 
 
-## Pinned:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandra-b-t&repo=finder&theme=nord)](https://github.com/aleksandra-b-t/finder)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandra-b-t&repo=one_step_fe&theme=nord)](https://github.com/aleksandra-b-t/one_step_fe)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandra-b-t&repo=one_step_be&theme=nord)](https://github.com/aleksandra-b-t/one_step_be)
 
 
 <!--
